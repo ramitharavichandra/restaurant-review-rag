@@ -189,33 +189,6 @@ Which restaurant offers vegetarian options?
 
 ---
 
-## Screenshots
-
-### Application
-
-Insert a screenshot of the running application here.
-
-```
-images/application.png
-```
-
-### Project Structure
-
-Insert a screenshot of the project structure.
-
-```
-images/project_structure.png
-```
-
-### System Architecture
-
-Insert the architecture diagram.
-
-```
-images/architecture.png
-```
-
----
 
 ## Author
 
