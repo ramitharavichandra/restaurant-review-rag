@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Aug 5, 2026, 10_48_48 AM" src="https://github.com/user-attachments/assets/1a898726-3a7c-43ea-8163-364740df9d31" /># Restaurant Review RAG
+# Restaurant Review RAG
 
 ## Overview
 
